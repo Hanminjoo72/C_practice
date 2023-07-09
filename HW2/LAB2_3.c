@@ -1,4 +1,4 @@
-//ÄÄÇ»ÅÍÇĞ°ú 20210820 ÇÑ¹ÎÁÖ
+//Ã„Ã„Ã‡Å¥Ä¹ÃÃ‡ÄÂ°Ãº 20210820 Ã‡ÅƒÅ¡ÃÃÃ–
 
 #include <stdio.h>
 int main(void)
@@ -13,6 +13,6 @@ int main(void)
 
 	minute = totalminute % 60;
 
-	printf("%dºĞ:\n%dh %dm", totalminute , hour , minute);
+	printf("%dÅŸÄ:\n%dh %dm", totalminute , hour , minute);
 	    
 }
