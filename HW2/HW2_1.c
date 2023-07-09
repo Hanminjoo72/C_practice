@@ -1,4 +1,4 @@
-//ÄÄÇ»ÅÍÇĞ°ú 20210820 ÇÑ¹ÎÁÖ
+//ì»´í“¨í„°í•™ê³¼ 20210820 í•œë¯¼ì£¼
 #include<stdio.h>
 int main(void)
 {
@@ -8,6 +8,6 @@ int main(void)
 	midterm = 100;
 	final = 90;
 
-	printf("ÀÌ¸§\t\tÁß°£\tÇĞ±â¸»\tÆò±Õ\n");
+	printf("ì´ë¦„\t\tì¤‘ê°„\tí•™ê¸°ë§\tí‰ê· \n");
 	printf("Suehee pak\t%d\t%d\t%d", midterm, final, (midterm + final) / 2);
 }
